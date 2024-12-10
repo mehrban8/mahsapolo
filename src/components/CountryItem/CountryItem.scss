@@ -1,0 +1,28 @@
+.countryItem {
+  width: 300px;
+  cursor: pointer;
+  margin: 0 1rem;
+
+  &:hover {
+    .image {
+      opacity: 0.9;
+    }
+  }
+}
+
+.image {
+  height: fit-content;
+  border-color: black;
+  width: 100%;
+}
+
+.title {
+  font-size: 1.3rem;
+  font-weight: 400;
+  color: black;
+  border: 10px;
+  border-radius: 10px;
+  text-align: center;
+  display: block;
+  text-transform: uppercase;
+}

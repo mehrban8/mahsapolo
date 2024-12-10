@@ -1,0 +1,24 @@
+{
+  "Japan": {
+    "title": "Explore the serene charm of Japan's timeless traditions.",
+    "images": ["/Japan/1.jpg", "/Japan/2.jpg", "/Japan/3.jpg", "/Japan/4.jpg"]
+  },
+  "Switzerland": {
+    "title": "Immerse yourself in Switzerland's stunning alpine wonders.",
+    "images": [
+      "/Switzerland/1.jpg",
+      "/Switzerland/2.jpg",
+      "/Switzerland/3.jpg",
+      "/Switzerland/4.jpg"
+    ]
+  },
+  "Norway": {
+    "title": "Experience the majestic beauty of Norway's landscapes.",
+    "images": [
+      "/Norway/1.jpg",
+      "/Norway/2.jpg",
+      "/Norway/3.jpg",
+      "/Norway/4.jpg"
+    ]
+  }
+}
