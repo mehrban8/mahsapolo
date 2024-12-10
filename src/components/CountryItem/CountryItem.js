@@ -10,7 +10,7 @@ export const CountryItem = ({ image, title }) => {
 
   return (
     <div className="countryItem" onClick={handleClick}>
-      <img src={image} className="image" />
+      <img src={image} className="image" alt={title} />
       <span className="title">{title}</span>
     </div>
   );
